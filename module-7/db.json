@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "price": 129.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/shopease-headphones/600/600",
+      "description": "Over-ear Bluetooth headphones with active noise cancellation and 30 hours of battery life. Folds flat for travel.",
+      "rating": 4.6,
+      "stock": 42
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard with Brown Switches",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/shopease-keyboard/600/600",
+      "description": "Compact 75% layout keyboard with tactile switches and white backlighting. Includes a detachable USB-C cable.",
+      "rating": 4.5,
+      "stock": 28
+    },
+    {
+      "id": 3,
+      "name": "Portable Bluetooth Speaker",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/shopease-speaker/600/600",
+      "description": "Water-resistant speaker with 360-degree sound and 12 hours of playtime. Small enough to clip onto a backpack.",
+      "rating": 4.3,
+      "stock": 65
+    },
+    {
+      "id": 4,
+      "name": "1080p HD Webcam with Privacy Shutter",
+      "price": 74.5,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/shopease-webcam/600/600",
+      "description": "Plug-and-play webcam with autofocus and a built-in dual microphone. The sliding shutter covers the lens when not in use.",
+      "rating": 4.1,
+      "stock": 19
+    },
+    {
+      "id": 5,
+      "name": "Smart Fitness Band",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/shopease-fitnessband/600/600",
+      "description": "Tracks steps, heart rate, and sleep with a bright AMOLED display. Lasts up to 10 days on a single charge.",
+      "rating": 4.0,
+      "stock": 87
+    },
+    {
+      "id": 6,
+      "name": "Classic Denim Jacket",
+      "price": 79.0,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/shopease-denimjacket/600/600",
+      "description": "Mid-weight cotton denim jacket with a relaxed fit and brass buttons. A timeless layer for any season.",
+      "rating": 4.4,
+      "stock": 34
+    },
+    {
+      "id": 7,
+      "name": "Leather Crossbody Bag",
+      "price": 95.0,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/shopease-crossbody/600/600",
+      "description": "Full-grain leather bag with an adjustable strap and two zip compartments. Fits a phone, wallet, and small tablet.",
+      "rating": 4.7,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Canvas Low-Top Sneakers",
+      "price": 54.99,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/shopease-sneakers/600/600",
+      "description": "Lightweight canvas sneakers with a cushioned insole and a durable rubber sole. Available in sizes 36 to 46.",
+      "rating": 4.2,
+      "stock": 120
+    },
+    {
+      "id": 9,
+      "name": "Merino Wool Scarf",
+      "price": 39.5,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/shopease-scarf/600/600",
+      "description": "Soft, breathable scarf woven from 100% merino wool. Warm without the itch.",
+      "rating": 4.5,
+      "stock": 52
+    },
+    {
+      "id": 10,
+      "name": "Polarized Aviator Sunglasses",
+      "price": 68.0,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/shopease-sunglasses/600/600",
+      "description": "Metal-frame aviators with polarized lenses and full UV400 protection. Comes with a hard case and cleaning cloth.",
+      "rating": 4.3,
+      "stock": 41
+    },
+    {
+      "id": 11,
+      "name": "Ceramic Pour-Over Coffee Set",
+      "price": 44.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/shopease-pourover/600/600",
+      "description": "Hand-glazed ceramic dripper with a matching carafe and 40 paper filters. Brews a clean, bright cup in under four minutes.",
+      "rating": 4.6,
+      "stock": 30
+    },
+    {
+      "id": 12,
+      "name": "Stonewashed Linen Duvet Cover Set",
+      "price": 119.0,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/shopease-duvet/600/600",
+      "description": "Queen-size duvet cover with two pillowcases in pre-washed European linen. Gets softer with every wash.",
+      "rating": 4.8,
+      "stock": 22
+    },
+    {
+      "id": 13,
+      "name": "Bamboo Desk Organizer",
+      "price": 27.5,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/shopease-deskorganizer/600/600",
+      "description": "Five-compartment organizer for pens, notes, and a phone. Finished with a water-resistant natural coating.",
+      "rating": 4.1,
+      "stock": 74
+    },
+    {
+      "id": 14,
+      "name": "Pre-Seasoned Cast Iron Skillet 12-Inch",
+      "price": 34.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/shopease-skillet/600/600",
+      "description": "Heavy-duty skillet that works on the stovetop, in the oven, or over a campfire. Pre-seasoned and ready to cook.",
+      "rating": 4.7,
+      "stock": 38
+    },
+    {
+      "id": 15,
+      "name": "Scented Soy Candle Trio",
+      "price": 24.0,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/shopease-candles/600/600",
+      "description": "Set of three hand-poured soy candles in cedar, vanilla, and sea salt. Each burns for about 35 hours.",
+      "rating": 4.4,
+      "stock": 96
+    },
+    {
+      "id": 16,
+      "name": "Vitamin C Brightening Serum",
+      "price": 32.0,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/shopease-serum/600/600",
+      "description": "Lightweight 15% vitamin C serum that helps even skin tone and reduce dullness. Use in the morning before sunscreen.",
+      "rating": 4.5,
+      "stock": 58
+    },
+    {
+      "id": 17,
+      "name": "Hydrating Daily Moisturizer",
+      "price": 24.5,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/shopease-moisturizer/600/600",
+      "description": "Fragrance-free gel-cream with hyaluronic acid and ceramides. Absorbs quickly and suits all skin types.",
+      "rating": 4.3,
+      "stock": 110
+    },
+    {
+      "id": 18,
+      "name": "Mineral Sunscreen SPF 50",
+      "price": 19.99,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/shopease-sunscreen/600/600",
+      "description": "Broad-spectrum zinc oxide sunscreen that leaves no white cast. Water-resistant for up to 80 minutes.",
+      "rating": 4.2,
+      "stock": 83
+    },
+    {
+      "id": 19,
+      "name": "Natural Bristle Hair Brush",
+      "price": 16.75,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/shopease-hairbrush/600/600",
+      "description": "Beechwood brush with boar bristles that distribute natural oils from root to tip. Adds shine and reduces frizz.",
+      "rating": 3.9,
+      "stock": 47
+    },
+    {
+      "id": 20,
+      "name": "Matte Lipstick Collection",
+      "price": 28.0,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/shopease-lipstick/600/600",
+      "description": "Set of four long-wear matte lipsticks in neutral shades. Comfortable formula that does not dry out lips.",
+      "rating": 4.0,
+      "stock": 61
+    }
+  ]
+}
